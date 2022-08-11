@@ -59,3 +59,7 @@ plt.gca().invert_yaxis()
 plt.legend(lab2)
 plt.show()
 ```
+.. image:: https://github.com/shkwonmtl/hodopy/blob/main/docs/images/example01.png
+   :align: center
+   
+   https://github.com/shkwonmtl/hodopy/blob/main/docs/images/example01.png?raw=true
