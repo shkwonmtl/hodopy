@@ -14,7 +14,7 @@ pip install hodopy
 
 
 ```python
-import hodopy.hodopy as hp
+import hodopy as hp
 import numpy as np
 import matplotlib.pyplot as plt
 
