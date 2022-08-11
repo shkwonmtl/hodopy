@@ -60,4 +60,4 @@ plt.legend(lab2)
 plt.show()
 ```
    
-![example01.png]https://raw.githubusercontent.com/shkwonmtl/hodopy/3752ddb85b39199f69e7e302b4c6b407f999e48e/docs/images/example01.png
+![example01.png](https://raw.githubusercontent.com/shkwonmtl/hodopy/3752ddb85b39199f69e7e302b4c6b407f999e48e/docs/images/example01.png)
